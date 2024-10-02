@@ -1,7 +1,7 @@
 
 # Data Professional Survey Breakdown - Power BI Dashboard
 
-![Power BI Dashboard](powerBi.png)
+![Power BI Dashboard](1.png)
 
 ## Overview 📊
 
